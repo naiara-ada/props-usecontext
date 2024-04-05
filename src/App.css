@@ -25,3 +25,18 @@ button {
 .result {
   margin-top: 20px;
 }
+
+.link{
+  width: 100px;
+  height: 30px;
+  border: 1px solid #222;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.btnReset{
+  margin: 10px;
+  width: 75px;
+}
